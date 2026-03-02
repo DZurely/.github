@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-    Zurely is a digital PropTech platform automated LHDN Stamping submissions and AI-powered eKYC tenant verification for the Malaysian market.
+    Zurely is a professional PropTech infrastructure automating the legal lifecycle of property tenancies—from AI-powered identity verification to secure regulatory submissions.
 <p>
 
 <h3 align="center">
