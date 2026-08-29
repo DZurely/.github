@@ -1,41 +1,44 @@
 <p align="center">
-  <img src="/profile/logo.png" width="220" alt="Zurely logo">
+  <img src="/profile/logo.png" width="200" alt="Zurely logo">
 </p>
 
 <h3 align="center">
-  Digital tenancy, made simpler for Malaysian property agents.
+  Building better digital infrastructure for tenancy in Malaysia.
 </h3>
 
 <p align="center">
-  Zurely brings tenancy agreement preparation, identity verification, digital signing and stamping into one connected workflow.
+  Zurely is a Malaysian PropTech company creating a simpler, connected way to prepare, verify, sign and stamp tenancy agreements.
 </p>
 
 ---
 
-## How Zurely works
+## What we are building
 
-1. **Prepare**  
-   Enter the tenancy and property details.
+Tenancy transactions still rely on fragmented documents, manual coordination and disconnected service providers.
 
-2. **Verify & Sign**  
-   The landlord and tenant receive secure WhatsApp links to verify their identities and sign independently.
+Zurely brings the journey into one connected platform—from agreement preparation and identity verification to digital signing, stamping and completion.
 
-3. **Stamp**  
-   Complete the stamping process and track its progress.
+Our goal is to make tenancy transactions simpler for property agents while giving landlords and tenants a secure and straightforward experience.
 
-4. **Done**  
-   Receive the completed stamped tenancy agreement and supporting documents.
+## The problems we are solving
 
-## Built for Malaysian property agents
+- Connecting multiple parties through one clear workflow
+- Making identity verification and digital signing easy to complete
+- Generating and managing tenancy documents reliably
+- Tracking agreement and stamping progress
+- Protecting sensitive identity and property information
+- Designing technology that remains simple for everyday users
 
-- No app required for landlords or tenants
-- Secure identity verification and digital signing
-- Independent signing for both parties
-- Clear agreement and stamp duty status tracking
-- Stamping-only option for existing agreements
+## Build with us
+
+Zurely is an early-stage product, and there is still plenty to build.
+
+We would be happy to meet developers, designers, product thinkers and technology partners who are interested in PropTech, workflow automation and building practical solutions for Malaysia.
+
+If what we are working on interests you, we would love to hear from you.
 
 <p align="center">
   <a href="https://zurely.my"><strong>Visit Zurely</strong></a>
   &nbsp;•&nbsp;
-  <a href="mailto:support@zurely.my"><strong>Contact Support</strong></a>
+  <a href="mailto:support@zurely.my"><strong>Contact Us</strong></a>
 </p>
