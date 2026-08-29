@@ -21,7 +21,7 @@
    The landlord and tenant receive secure WhatsApp links to verify their identities and sign independently.
 
 3. **Stamp**  
-   Submit the completed agreement for stamping and track its progress.
+   Complete the stamping process and track its progress.
 
 4. **Done**  
    Receive the completed stamped tenancy agreement and supporting documents.
